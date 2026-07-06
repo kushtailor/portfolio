@@ -180,7 +180,7 @@ const SITE = {
     description: "Open to internships, entry-level roles, and collaboration on research or CTF teams. Reach out — I read every message.",
     email: "kushntailor@gmail.com",
     linkedin: "linkedin.com/in/kushtailor",
-    linkedinUrl: "https://www.linkedin.com/in/kush-tailor-169a26296/",
+    linkedinUrl: "https://www.linkedin.com/in/kushtailor26/",
     github: "github.com/kushtailor",
     githubUrl: "https://github.com/kushtailor",
     // The little fake-terminal box on the right:
